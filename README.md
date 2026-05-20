@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hey, I'm Michael! 👋</h1>
   
-  <p><b>Systems & Embedded Engineer | Relocating to Austin, TX (April 2026) 🌵</b></p>
+  <p><b>Systems & Embedded Engineer</b></p>
   <p><i>U.S. Permanent Resident — No Sponsorship Required</i></p>
 
   <p align="center">
