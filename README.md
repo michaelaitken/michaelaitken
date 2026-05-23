@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hey, I'm Michael! 👋</h1>
   
-  <p><b>Systems & Embedded Engineer</b></p>
+  <p><b>OT Systems Engineer</b></p>
   <p><i>U.S. Permanent Resident — No Sponsorship Required</i></p>
 
   <p align="center">
@@ -18,13 +18,3 @@
     </a>
   </p>
 </div>
-
-I am a engineer who bridges the gap between physical hardware and modern software architectures. I'm obsessed with building high-performance, resource-constrained software using **Modern C++**. 
-Coming from a background in 24/7 manufacturing, I build mission-critical, high-availability systems where software directly controls and monitors the physical world.
-
-
-My engineering philosophy was forged on the factory floor, where I earned my **Bachelor of Computer Science (Distinction)** with a focus on Embedded Systems while working 12-hour rotating shifts in 24/7 manufacturing operations.
-I love understanding how systems fit together end-to-end, from network protocols and OS layers down to hardware interactions.
-
-
-Offline, I'm usually tinkering with my home lab setup, running long distance, or catching the latest blockbuster on the biggest IMAX screen I can find! 🏃‍♂️🎥
